@@ -19,7 +19,7 @@ export const SocialLinksCard = () => {
                     <p className="text-custom-green">London, United Kingdom</p>
                 </div>
 
-                <p>"Front-end developer and avid reader."</p>
+                <p>`&quot;`Front-end developer and avid reader`&quot;`</p>
                 
                 <div className="flex flex-col w-full gap-y-4">
                     {
